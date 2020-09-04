@@ -2,6 +2,7 @@
 | Problem                 | Struggle    | Standard  | Speedrun | Notes |
 | ---                     | ---         | ---       | ---      | ---   |
 | 1. TwoSum |             |   ✔️    |      | This problem was a ok|
+| 20. Balanced Brackets |     ✔️        |       |      | This problem was a ok|
 | 54. Spiral Matrix |             |   ✔️    |      | This problem was a ok|
 | 88. Merge Two Sorted Arrays |             |   ✔️    |      | This problem was a ok|
 | 96. Unique Binary Trees  |      ✔️       |       |      | This problem was a struggle|
