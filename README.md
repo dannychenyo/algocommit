@@ -10,4 +10,4 @@
 | 125. Valid Palindrome  |            |       |   ✔️   | This problem was easy|
 | 151. Reverse Words  |            |   ✔️    |      | This problem was easy|
 | 680. Valid Palindrome II |             |    ✔️   |      | This problem was a struggle|
-|121. Best Time to Buy and Sell Stock |             |       |   ✔️   | This problem was easy|
+|1431. Kids With the Greatest Number of Candies |             |       |   ✔️   | This problem was easy|
