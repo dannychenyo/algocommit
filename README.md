@@ -1,15 +1,15 @@
 # Progress
-| Problem                 | Struggle    | Standard  | Speedrun | Notes |
-| ---                     | ---         | ---       | ---      | ---   |
-| 1. TwoSum |             |   ✔️    |      | This problem was a ok|
-| 20. Balanced Brackets |            |       |    ✔️  | This problem was a ok|
-| 53. Maximum Subarray |            |       |    ✔️  | This problem was a easy|
-| 54. Spiral Matrix |       ✔️      |       |      | This problem was a wat|
-| 88. Merge Two Sorted Arrays |             |   ✔️    |      | This problem was a ok|
-| 96. Unique Binary Trees  |      ✔️       |       |      | This problem was a struggle|
-| 121. Best Time to Buy and Sell Stock |             |       |   ✔️   | This problem was easy|
-| 125. Valid Palindrome  |            |       |   ✔️   | This problem was easy|
-| 151. Reverse Words  |            |   ✔️    |      | This problem was easy|
-| 560. Subarray Sum Equals K  |            |   ✔️    |      | This problem was ok|
-| 680. Valid Palindrome II |             |    ✔️   |      | This problem was a struggle|
-|1431. Kids With the Greatest Number of Candies |             |       |   ✔️   | This problem was easy|
+| Problem                 | Struggle    | Standard  | Speedrun | Notes |last attempted date|
+| ---                     | ---         | ---       | ---      | ---   |  ---     |
+| 1. TwoSum |             |   ✔️    |      | This problem was a ok|    9/9/20         |
+| 20. Balanced Brackets |            |       |    ✔️  | This problem was a ok|  9/1/20     |
+| 53. Maximum Subarray |            |       |    ✔️  | This problem was a easy|  9/2/20    |
+| 54. Spiral Matrix |       ✔️      |       |      | This problem was a wat|    9/3/20      |
+| 88. Merge Two Sorted Arrays |             |   ✔️    |      | This problem was a ok| 9/4/20        |
+| 96. Unique Binary Trees  |      ✔️       |       |      | This problem was a struggle|   9/5/20       |
+| 121. Best Time to Buy and Sell Stock |             |       |   ✔️   | This problem was easy|  9/6/20     |
+| 125. Valid Palindrome  |            |       |   ✔️   | This problem was easy| 9/7/20      |   
+| 151. Reverse Words  |            |   ✔️    |      | This problem was easy|  9/8/20      |
+| 560. Subarray Sum Equals K  |            |   ✔️    |      | This problem was ok|  9/9/20      |
+| 680. Valid Palindrome II |             |    ✔️   |      | This problem was a struggle|  9/9/20      |
+|1431. Kids With the Greatest Number of Candies |             |       |   ✔️   | This problem was easy|  9/9/20      |
