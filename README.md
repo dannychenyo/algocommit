@@ -2,6 +2,7 @@
 | Problem                 | Struggle    | Standard  | Speedrun | Notes |last attempted date|
 | ---                     | ---         | ---       | ---      | ---   |  ---     |
 | 1. TwoSum |             |       |   ✔️   | This problem is getting easier|    9/10/20         |
+| 6. ZigZag Conversion |             |       |   ✔️   | This problem is easy|    9/12/20         |
 | 20. Balanced Brackets |            |       |    ✔️  | This problem was a ok|  9/1/20     |
 | 53. Maximum Subarray |            |       |    ✔️  | This problem was a easy|  9/2/20    |
 | 54. Spiral Matrix |       ✔️      |       |      | This problem was a wat|    9/3/20      |
