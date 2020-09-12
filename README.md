@@ -14,4 +14,5 @@
 | 509. Fibonacci Number |            |       |   ✔️   | This problem was easy|  9/10/20      |
 | 560. Subarray Sum Equals K  |   ✔️         |       |      | This problem was a struggle|  9/9/20      |
 | 680. Valid Palindrome II |             |    ✔️   |      | This problem was a struggle|  9/9/20      |
+| 704. Binary Search |             |       |  ✔️    | This problem was easy|  9/12/20      |
 |1431. Kids With the Greatest Number of Candies |             |       |   ✔️   | This problem was easy|  9/9/20      |
