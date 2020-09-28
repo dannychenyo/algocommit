@@ -1,6 +1,6 @@
 class Solution {
   public boolean validPalindrome(String a) {
-      int deletefront = 0;
+      int  deletefront = 0;
       int deleteback =0;
       for(int i =0; i < a.length()/2;i++){
           
