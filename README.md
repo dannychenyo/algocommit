@@ -17,21 +17,15 @@
 | 704. Binary Search |             |       |  ✔️    | This problem was easy|  9/12/20      |
 |1431. Kids With the Greatest Number of Candies |             |       |   ✔️   | This problem was easy|  9/24/20|
 | 704. Binary Search |             |       |  ✔️    | This problem was easy|  9/12/20      |
-
-
 | Find Kth to last Linked list| ✔️ | |      | This problem was a struggle|   9/5/20       |
 | Reverse linked list| ✔️ | |      | This problem was a struggle|   9/23/20       |
 | Check for cycle in a graph| ✔️ | |      | This problem was a struggle|   9/22/20       |
 | Find loop in a cycle| ✔️ | |      | This problem was a struggle|   9/6/20       |
-
-
 | validate bst|   ✔️ |  |      | This problem was a struggle|   10/1/20       |
 | lowest common ancestor tree |  ✔️ |  |      | This problem was a struggle|   10/2/20       |
 | maximum depth of a tree | ✔️ |  |      | This problem was a struggle|   9/30/20       |
 | diameter of a binary tree | ✔️ |  |      | This problem was a struggle|   9/24/20       |
 | invert bst| ✔️ |  |      | This problem was a struggle|   9/25/20       |
-
-
 | DFS | ✔️ |  |      | This problem was a struggle|   9/15/20       |
 | BFS | ✔️ |  |      | This problem was a struggle|   9/18/20       |
 | check cycle in a graph| ✔️ |  |      | This problem was a struggle|   9/19/20       |
