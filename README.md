@@ -1,4 +1,4 @@
-#     Progress
+#    Progress
 | Problem                 | Struggle    | Standard  | Speedrun | Notes |last attempted date|
 | ---                     | ---         | ---       | ---      | ---   |  ---     |
 | 1. TwoSum |             |       |   ✔️   | This problem is getting easier|    9/11/20         |
@@ -30,6 +30,7 @@
 | BFS | ✔️ |  |      | This problem was a struggle|   9/18/20       |
 | check cycle in a graph| ✔️ |  |      | This problem was a struggle|   9/19/20       |
 | bipartite graph check| ✔️ |   |      | This problem was a struggle|   9/10/20       |
+| Dynamic arrays | | | | | 10/6/2020| 
 
 
 
