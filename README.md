@@ -1,4 +1,4 @@
-#     Progress
+#      Progress
 | Problem                 | Struggle    | Standard  | Speedrun | Notes |last attempted date|
 | ---                     | ---         | ---       | ---      | ---   |  ---     |
 | 1. TwoSum |             |       |   ✔️   | This problem is getting easier|    9/11/20         |
