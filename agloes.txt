@@ -1,0 +1,17 @@
+
+10/12/2020
+------------
+*DONE*https://leetcode.com/problems/palindromic-substrings/
+*DONE*https://leetcode.com/problems/longest-palindromic-substring/
+https://leetcode.com/problems/group-anagrams/
+*DONE*https://leetcode.com/problems/longest-substring-without-repeating-characters/
+https://leetcode.com/problems/longest-repeating-character-replacement/
+https://leetcode.com/problems/minimum-window-substring/
+
+10/13/2020
+-------------
+*DONE*https://leetcode.com/problems/permutation-in-string/
+*DONE*https://leetcode.com/problems/find-all-anagrams-in-a-string/
+https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+https://leetcode.com/problems/max-points-on-a-line/
+https://leetcode.com/problems/lru-cache/
