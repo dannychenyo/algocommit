@@ -12,6 +12,40 @@ https://leetcode.com/problems/minimum-window-substring/
 -------------
 *DONE*https://leetcode.com/problems/permutation-in-string/
 *DONE*https://leetcode.com/problems/find-all-anagrams-in-a-string/
-https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+-----https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 https://leetcode.com/problems/max-points-on-a-line/
 https://leetcode.com/problems/lru-cache/
+
+10/14/2020
+-------------
+Review 
+*DONE*https://leetcode.com/problems/zigzag-conversion/
+*DONE*https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+https://leetcode.com/problems/spiral-matrix/
+
+https://leetcode.com/problems/max-points-on-a-line/
+
+https://leetcode.com/problems/implement-queue-using-stacks/
+https://leetcode.com/problems/design-circular-queue/
+https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+https://leetcode.com/problems/simplify-path/
+
+10/15/2020
+--------------
+https://leetcode.com/problems/spiral-matrix-ii/
+https://leetcode.com/problems/spiral-matrix-iii/
+https://leetcode.com/problems/rotate-image/
+https://leetcode.com/problems/set-matrix-zeroes/
+https://leetcode.com/problems/word-search/
+https://leetcode.com/problems/word-search-ii/
+
+
+10/16/2020
+--------------
+https://docs.google.com/document/d/1LFqzzfLc2CwIkA5uZKTCeVHAMN5gqDfjjUkODQQG8XA/edit - biggest failure
+https://docs.google.com/document/d/1vU1cPnqDeXPrhL3UeZoopdXJotF09pheMeHkKgUP1QM/edit - strengths
+https://docs.google.com/document/d/1N_79G6lrS8YDsrdMduMhM8Pz0y-HWQHGw88y9CHGexo/edit - tell me about yourself / walk me thru ur resume
+https://leetcode.com/problems/spiral-matrix-iii/
+https://leetcode.com/problems/rotate-image/
+https://leetcode.com/problems/set-matrix-zeroes/
+https://leetcode.com/problems/minimum-window-substring/
