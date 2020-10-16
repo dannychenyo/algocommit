@@ -41,7 +41,7 @@ https://leetcode.com/problems/word-search-ii/
 
 
 10/16/2020
---------------
+---------- ----
 https://docs.google.com/document/d/1LFqzzfLc2CwIkA5uZKTCeVHAMN5gqDfjjUkODQQG8XA/edit - biggest failure
 https://docs.google.com/document/d/1vU1cPnqDeXPrhL3UeZoopdXJotF09pheMeHkKgUP1QM/edit - strengths
 https://docs.google.com/document/d/1N_79G6lrS8YDsrdMduMhM8Pz0y-HWQHGw88y9CHGexo/edit - tell me about yourself / walk me thru ur resume
