@@ -45,7 +45,26 @@ https://leetcode.com/problems/word-search-ii/
 https://docs.google.com/document/d/1LFqzzfLc2CwIkA5uZKTCeVHAMN5gqDfjjUkODQQG8XA/edit - biggest failure
 https://docs.google.com/document/d/1vU1cPnqDeXPrhL3UeZoopdXJotF09pheMeHkKgUP1QM/edit - strengths
 https://docs.google.com/document/d/1N_79G6lrS8YDsrdMduMhM8Pz0y-HWQHGw88y9CHGexo/edit - tell me about yourself / walk me thru ur resume
+
+
 https://leetcode.com/problems/spiral-matrix-iii/
 https://leetcode.com/problems/rotate-image/
 https://leetcode.com/problems/set-matrix-zeroes/
 https://leetcode.com/problems/minimum-window-substring/
+
+https://leetcode.com/problems/subarray-sum-equals-k/
+*DONE*https://leetcode.com/problems/pascals-triangle/
+*DONE*https://leetcode.com/problems/count-primes/
+
+
+
+https://leetcode.com/problems/longest-mountain-in-array/
+https://leetcode.com/problems/product-of-array-except-self/
+https://leetcode.com/problems/container-with-most-water/
+
+
+10/17/2020
+---------- ----
+conflict/ disagreement with comeone on the team 
+last project you worked on - why i picked the framework  i did
+why do i code, what have i done to practice code
