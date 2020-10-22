@@ -15,38 +15,29 @@ https://leetcode.com/problems/minimum-window-substring/
 -----https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 https://leetcode.com/problems/max-points-on-a-line/
 https://leetcode.com/problems/lru-cache/
-https://leetcode.com/problems/group-anagrams/
 
 10/14/2020
 -------------
 Review 
 *DONE*https://leetcode.com/problems/zigzag-conversion/
 *DONE*https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-*DONE*https://leetcode.com/problems/spiral-matrix/
+https://leetcode.com/problems/spiral-matrix/
 
 https://leetcode.com/problems/max-points-on-a-line/
 
-*EH*https://leetcode.com/problems/implement-queue-using-stacks/
-*EH*https://leetcode.com/problems/design-circular-queue/
-*DONE*https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+https://leetcode.com/problems/implement-queue-using-stacks/
+https://leetcode.com/problems/design-circular-queue/
+https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 https://leetcode.com/problems/simplify-path/
-https://leetcode.com/problems/max-points-on-a-line/
-https://leetcode.com/problems/lru-cache/
-https://leetcode.com/problems/group-anagrams/
 
 10/15/2020
 --------------
-*DONE*https://leetcode.com/problems/spiral-matrix-ii/
+https://leetcode.com/problems/spiral-matrix-ii/
 https://leetcode.com/problems/spiral-matrix-iii/
 https://leetcode.com/problems/rotate-image/
 https://leetcode.com/problems/set-matrix-zeroes/
 https://leetcode.com/problems/word-search/
 https://leetcode.com/problems/word-search-ii/
-https://leetcode.com/problems/simplify-path/
-https://leetcode.com/problems/max-points-on-a-line/
-https://leetcode.com/problems/lru-cache/
-https://leetcode.com/problems/group-anagrams/
-
 
 
 10/16/2020
@@ -61,7 +52,7 @@ https://leetcode.com/problems/rotate-image/
 https://leetcode.com/problems/set-matrix-zeroes/
 https://leetcode.com/problems/minimum-window-substring/
 
-*EH*https://leetcode.com/problems/subarray-sum-equals-k/
+https://leetcode.com/problems/subarray-sum-equals-k/
 *DONE*https://leetcode.com/problems/pascals-triangle/
 *DONE*https://leetcode.com/problems/count-primes/
 
@@ -78,17 +69,15 @@ conflict/ disagreement with comeone on the team
 last project you worked on - why i picked the framework  i did
 why do i code, what have i done to practice code
 
+10/20/2020
+---------------
+https://leetcode.com/problems/number-of-distinct-islands/
+https://leetcode.com/problems/combination-sum/
+https://leetcode.com/problems/permutations/
 
+10/21/2020
+---------------
+https://leetcode.com/problems/combination-sum-ii/
+https://leetcode.com/problems/combination-sum-iii/
+https://leetcode.com/problems/permutations-ii/
 
-
-https://leetcode.com/problems/container-with-most-water/
-https://leetcode.com/problems/spiral-matrix-iii/
-https://leetcode.com/problems/rotate-image/
-https://leetcode.com/problems/set-matrix-zeroes/
-https://leetcode.com/problems/word-search/
-https://leetcode.com/problems/word-search-ii/
-https://leetcode.com/problems/simplify-path/
-https://leetcode.com/problems/max-points-on-a-line/
-https://leetcode.com/problems/lru-cache/
-https://leetcode.com/problems/group-anagrams/
-https://leetcode.com/problems/minimum-window-substring/

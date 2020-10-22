@@ -1,0 +1,32 @@
+
+1. TwoSum
+6. ZigZag Conversion 
+20. Balanced Brackets
+53. Maximum Subarray 
+54. Spiral Matrix 
+88. Merge Two Sorted Arrays
+96. Unique Binary Trees 
+121. Best Time to Buy and Sell Stock 
+125. Valid Palindrome 
+151. Reverse Words 
+509. Fibonacci Number 
+560. Subarray Sum Equals K 
+680. Valid Palindrome II 
+704. Binary Search 
+1431. Kids With the Greatest Number of Candies 
+704. Binary Search 
+Find Kth to last Linked list
+Reverse linked list
+Check for cycle in a graph
+Find loop in a cycle
+validate bst
+lowest common ancestor tree 
+maximum depth of a tree
+diameter of a binary tree 
+invert bst
+DFS 
+BFS 
+check cycle in a graph
+bipartite graph check
+Dynamic arrays 
+
