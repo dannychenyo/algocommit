@@ -5,11 +5,18 @@ function quickSort1 (arr, startIdx = 0, endIdx = arr.length - 1){
   let leftIdx = pivotIdx + 1
   let rightIdx = endIdx
   while (leftIdx <= rightIdx){
-    if (arr[leftIdx] > arr[pivotIdx] && arr[rightIdx] < arr[pivotIdx]){
+    // if (arr[leftIdx] > arr[pivotIdx] && arr[rightIdx] < arr[pivotIdx]){
+    //   swap(arr, leftIdx, rightIdx)
+    // }
+    // if (arr[leftIdx] <= arr[pivotIdx]) leftIdx++
+    // if (arr[rightIdx] >= arr[pivotIdx]) rightIdx--
+    while (arr[leftIdx] < arr[pivotIdx]) leftIdx++
+    while (arr[rightIdx] > arr[pivotIdx]) rightIdx--
+    if (leftIdx <= rightIdx){
       swap(arr, leftIdx, rightIdx)
+      leftIdx++
+      rightIdx--
     }
-    if (arr[leftIdx] <= arr[pivotIdx]) leftIdx++
-    if (arr[rightIdx] >= arr[pivotIdx]) rightIdx--
   }
   swap(arr, pivotIdx, rightIdx)
   quickSort1(arr, startIdx, rightIdx-1)
