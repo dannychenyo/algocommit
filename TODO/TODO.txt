@@ -53,3 +53,17 @@ https://leetcode.com/problems/delete-node-in-a-bst/
 https://leetcode.com/problems/inorder-successor-in-bst/
 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+
+
+https://leetcode.com/problems/path-sum-ii/
+
+https://leetcode.com/problems/path-sum-iii/
+----https://leetcode.com/problems/validate-binary-search-tree/
+*https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+*https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+
+https://leetcode.com/problems/count-univalue-subtrees/
+https://leetcode.com/problems/merge-two-binary-trees/
+https://leetcode.com/problems/sum-root-to-leaf-numbers/
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+https://leetcode.com/problems/subtree-of-another-tree/
