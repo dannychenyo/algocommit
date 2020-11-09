@@ -67,3 +67,8 @@ https://leetcode.com/problems/merge-two-binary-trees/
 https://leetcode.com/problems/sum-root-to-leaf-numbers/
 https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 https://leetcode.com/problems/subtree-of-another-tree/
+
+
+https://leetcode.com/problems/merge-k-sorted-lists/
+https://leetcode.com/problems/k-closest-points-to-origin/
+https://leetcode.com/problems/find-median-from-data-stream/
