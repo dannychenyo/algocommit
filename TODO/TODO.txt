@@ -76,3 +76,9 @@ https://leetcode.com/problems/find-median-from-data-stream/
 https://leetcode.com/problems/surrounded-regions/
 https://leetcode.com/problems/flood-fill/
 https://leetcode.com/problems/keys-and-rooms/
+
+
+11/12/20
+https://leetcode.com/problems/01-matrix/
+https://leetcode.com/problems/rotting-oranges/
+https://leetcode.com/problems/shortest-path-in-binary-matrix/
