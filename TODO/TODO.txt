@@ -82,3 +82,17 @@ https://leetcode.com/problems/keys-and-rooms/
 https://leetcode.com/problems/01-matrix/
 https://leetcode.com/problems/rotting-oranges/
 https://leetcode.com/problems/shortest-path-in-binary-matrix/
+
+
+## Hash Tables
+| Warm Up | Core | Challenge |
+|---|---|---|
+|Permutation Palindrome (266)******
+|Longest Substring With At Most K Characters (340)
+|LRU Cache (146)(AE)(B2B)
+
+*DONE*|Nearest Repeated Entries In An Array| 
+|Minimum Window Substring (76)|
+|Group Anagrams (49)| 
+|Maximum Collinear Points (149)|
+
