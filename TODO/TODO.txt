@@ -108,6 +108,7 @@ https://leetcode.com/problems/shortest-path-in-binary-matrix/
 |Zigzag Conversion (6)|Palindromic Substrings (647)| |
 | |Permutation in String(567)| |
 
+##ARRAYS
 | Warm Up | Core | Challenge |
 |---|---|---|
 |Pascal's Triangle (118)|Merge Sorted Arrays|Sudoku Checker (37)|
