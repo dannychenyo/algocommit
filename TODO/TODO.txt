@@ -111,10 +111,20 @@ https://leetcode.com/problems/shortest-path-in-binary-matrix/
 ##ARRAYS
 | Warm Up | Core | Challenge |
 |---|---|---|
-|Pascal's Triangle (118)|Merge Sorted Arrays|Sudoku Checker (37)|
-|Two Number Sum (1)|Three Number Sum (15)|Max Profit With K Transactions|
-|Contains Duplicate|Count Subarrays That Sum To K| |
-|Max Profit AKA Buy/Sell Stock (121)|Max Profit 2| |
-|Product Of Array Except Self (238)|Water Container (11)| |
-| |Contains Duplicates 3 (220)| |
+|Pascal's Triangle (118)
+|Merge Sorted Arrays
+|Sudoku Checker (37)
+
+|Two Number Sum (1
+|Three Number Sum (15)
+|Max Profit With K Transactions|
+|Contains Duplicate
+|Count Subarrays That Sum To K|
+
+|Max Profit AKA Buy/Sell Stock (121)
+|Max Profit 2| |
+|Product Of Array Except Self (238
+|Water Container (11)
+| 
+|Contains Duplicates 3 (220)| |
 
