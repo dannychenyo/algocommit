@@ -123,8 +123,24 @@ https://leetcode.com/problems/shortest-path-in-binary-matrix/
 
 |Max Profit AKA Buy/Sell Stock (121)
 |Max Profit 2| |
-|Product Of Array Except Self (238
-|Water Container (11)
+*DONE*|Product Of Array Except Self (238
+*DONE*|Water Container (11)
 | 
 |Contains Duplicates 3 (220)| |
+
+## Matrix
+| Warm Up | Core | Challenge |
+|---|---|---|
+|Spiral Matrix (54)|Set Matrix Zeroes (73)||
+| |Rotate Image (48)| |
+
+## Queues and Stacks
+| Warm Up | Core | Challenge |
+|---|---|---|
+|Implement A Queue Using Stacks (232)|Balance Brackets|Simplify Path (71)(AE)|
+| |Design A Circular Queue (622)|Longest Valid Parentheses (32)*|
+| |Remove Minimum To Make Valid Parenthesis (1249)| |
+| |Valid Word After Substitutions (1003)| |
+| |Reverse Polish Notation (150)*| |
+
 
